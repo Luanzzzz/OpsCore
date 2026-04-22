@@ -1,0 +1,12 @@
+node_modules/
+.next/
+.next-build/
+.data/
+.codex/
+.codex-run/
+.run-logs/
+get-shit-done/
+*.tsbuildinfo
+*.log
+.env.local
+.env.*.local
